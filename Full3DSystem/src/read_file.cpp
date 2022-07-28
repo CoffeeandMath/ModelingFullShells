@@ -5,6 +5,7 @@
 #include <iostream>
 #include <string.h>
 
+
 void read_file::readInputFile(char *filename, some_data &dat) {
 	FILE *fid;
 	int endOfFileFlag;
